@@ -1,0 +1,1 @@
+#This project processes NASDAQ ITCH replays over UDP, and maintains top of book in hardware using a Colorlight 5A-75B. Hardware code is written in Verilog, and may later be passed over to HardCaml
